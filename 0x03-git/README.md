@@ -1,2 +1,2 @@
-#0x03_git project
+# 0x03_git project
 start using git
